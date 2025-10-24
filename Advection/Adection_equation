@@ -3,6 +3,3 @@
 This repository implements **Physics-Informed Neural Networks (PINNs)** to solve the **advection equation**:  
 
 ∂u/∂t + c * ∂u/∂x = 0
-
-The code supports flexible boundary conditions and enhanced training techniques for accurate solutions.  
-Results are validated against CFD simulations.
